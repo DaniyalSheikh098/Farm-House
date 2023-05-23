@@ -1,0 +1,202 @@
+body{
+    background-color: black;
+}
+.backimg{
+    background-color: rgb(212, 151, 38);
+    margin-left: 20% ;
+    margin-right: 20%;
+}
+.mem{
+    margin-top: -2em;
+    text-align: center;
+    margin-left: 30% ;
+    margin-right: 30%;
+}
+
+.mainh1{
+    color: white;
+    text-align: center;
+    font-style: initial;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-style: initial;
+    font-weight: 100px;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin-top: -0.5em;
+    }
+
+.mypic1{
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 50px;
+    margin-top: 1em;
+    width: 30px;
+    color: white;
+}
+.mypic2{
+    color: white;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 50px;
+    margin-top: 1em;
+    width: 30px;
+}
+.mypic3{
+    color: white;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 50px;
+    margin-top: 1em;
+    width: 30px;
+}
+.mypic4{
+    color: white;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 50px;
+    margin-top: 1em;
+    width: 30px;
+}
+.mypic5{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 50px;
+    margin-top: 1em;
+    width: 30px;
+}
+.mypic6{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 50px;
+    margin-top: 1em;
+    width: 30px;
+}
+.mypic7{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 50px;
+    margin-top: 1em;
+    width: 30px;
+}
+p{
+    align-items: center;
+    margin-top: -2.5em;
+}
+.family{
+    margin-top: -0.5em;
+}
+h3{
+    color: beige;
+}
+.img1{
+    margin-top: 1em;
+}
+.img2{
+    margin-top: 1em;
+}
+.img3{
+    margin-top: -0.9em;
+}
+.img4{
+margin-top: -0.9em;
+}
+.img5{
+    margin-top: -0.9em;
+}
+.copy{
+    margin-top: 1em;
+    color: rgb(219, 173, 32);
+    text-align: center;
+    padding-top: 4em;
+
+}
+.switch1{
+    color: white;
+}
+.deal1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
+    text-align: center;
+    background-image: url(images/bacgroundh2.jpg);
+}
+div li{
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    background-image: url(images/bacgroundh2.jpg);
+}
+.deal2{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    background-image: url(images/bacgroundh2.jpg);
+    text-align: center;
+}
+.dupki{
+    color: white;
+    font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
+    margin-top: 1em;
+}
+.pageimg1{
+    margin-top: 1.6em;
+ 
+}
+.name{
+    width: 9%;
+    margin-top: -40%;
+    padding-bottom: 35%;
+    padding-left: 1em;
+}
+.black{
+    color: gray;
+    font-family: cursive;
+}
+.whatsapp_float {
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    z-index: 50px;
+    display: block;
+}
+.fb_float{
+    position: fixed;
+    bottom: 85px;
+    right: 20px;
+    z-index: 50px;
+    display: block;
+}
+.touch{
+    text-align: center;
+    margin-top: 0.6em;
+    color: white;
+}
+.last{
+    color: white;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 50px;
+    margin-top: 1em;
+}
+.cont{
+    opacity: 20%;
+}
+.text{
+    margin-top: -14em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text2{
+    margin-top: 1em;
+    margin-left: 3%;
+    color: rgb(193, 175, 175);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+.text3{
+    margin-top: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
